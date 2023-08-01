@@ -16,6 +16,9 @@ pip install git+https://github.com/sign-language-processing/datasets.git
 pip install sign-language-datasets
 ```
 
+#### Arabic Dataset
+KArSL-502 [link](https://hamzah-luqman.github.io/KArSL/)
+
 ## Usage
 
 We demonstrate a loading script for every dataset in [examples/load.ipynb](examples/load.ipynb)
